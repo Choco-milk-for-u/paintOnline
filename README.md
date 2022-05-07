@@ -1,4 +1,4 @@
-# Pain Online with redux
+# Paint Online with redux
 
 
 
